@@ -1,0 +1,133 @@
+[ {
+  "id" : "c5f1458e-1df0-47da-a0b4-624a7462c93e",
+  "name" : "fdgfsdsg",
+  "createdDate" : 1639685739613,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : null,
+  "phoneNumber" : null,
+  "role" : null,
+  "balance" : 0.0,
+  "chatId" : null,
+  "sellerState" : null,
+  "location" : null,
+  "active" : true
+}, {
+  "id" : "6e88cb50-0c69-407d-8001-e3ec767d73f5",
+  "name" : "Tokhirjan",
+  "createdDate" : 1639711932617,
+  "updatedDate" : 1639711932617,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "Tokhirjon_S",
+  "phoneNumber" : "998944951799",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "302840698",
+  "sellerState" : "MAIN_MENU",
+  "location" : {
+    "longitude" : 69.321689,
+    "latitude" : 41.329523
+  },
+  "active" : false
+}, {
+  "id" : "15157cb2-b225-41fc-a4a5-de8ac5712c07",
+  "name" : "Eshmamatov Obidjon 714-19",
+  "createdDate" : 1639743916504,
+  "updatedDate" : 1639743916504,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "Obidjon_Eshmamatov",
+  "phoneNumber" : "+998939515177",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "424197800",
+  "sellerState" : "MAIN_MENU",
+  "location" : {
+    "longitude" : 69.349143,
+    "latitude" : 41.377738
+  },
+  "active" : false
+}, {
+  "id" : "cc0ff5f7-a184-41fb-9556-ed53406736ca",
+  "name" : "Tokhirjan",
+  "createdDate" : 1639820229708,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "Tokhirjon_S",
+  "phoneNumber" : "998944951799",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "302840698",
+  "sellerState" : "START_LOCATION",
+  "location" : null,
+  "active" : false
+}, {
+  "id" : "bedec4bd-3cc8-4a24-82d5-588667554b49",
+  "name" : "Jamshidbek Karimov",
+  "createdDate" : 1639820466141,
+  "updatedDate" : 1639820466141,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "JamshidbeKarimov",
+  "phoneNumber" : "998946236424",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "1383654416",
+  "sellerState" : "MAIN_MENU",
+  "location" : {
+    "longitude" : 69.228982,
+    "latitude" : 41.326366
+  },
+  "active" : false
+}, {
+  "id" : "be813bc2-9bae-44ae-a9bc-15394d3e6443",
+  "name" : "Jamshidbek Karimov",
+  "createdDate" : 1639820703069,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "JamshidbeKarimov",
+  "phoneNumber" : "998946236424",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "1383654416",
+  "sellerState" : "START_LOCATION",
+  "location" : null,
+  "active" : false
+}, {
+  "id" : "8b32418c-4b02-4c6f-904c-157a5ce4b907",
+  "name" : "Islomjon Anvarjonov",
+  "createdDate" : 1639821067523,
+  "updatedDate" : 1639821067523,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "IslomjonAnvarjonov",
+  "phoneNumber" : "998912043144",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "993066277",
+  "sellerState" : "EDIT_PRODUCT_PRICE",
+  "location" : {
+    "longitude" : 69.193783,
+    "latitude" : 41.296268
+  },
+  "active" : false
+}, {
+  "id" : "d19c572c-369e-4cf8-a32b-42b09640887c",
+  "name" : "Eshmamatov Obidjon 714-19",
+  "createdDate" : 1639822800530,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "Obidjon_Eshmamatov",
+  "phoneNumber" : "+998939515177",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "424197800",
+  "sellerState" : "START_LOCATION",
+  "location" : null,
+  "active" : false
+} ]

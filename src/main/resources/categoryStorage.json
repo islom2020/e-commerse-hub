@@ -1,0 +1,41 @@
+[ {
+  "id" : "b0a2598d-692a-4d9a-a0cc-940ef78922b4",
+  "name" : "📱Phones",
+  "createdDate" : 1639580023940,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "active" : true
+}, {
+  "id" : "110eb702-c070-416f-a061-af5f574ea90f",
+  "name" : "💻 PCs",
+  "createdDate" : 1639580039507,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "active" : true
+}, {
+  "id" : "e5949e0c-14f6-4b13-aa61-6bbde43e5634",
+  "name" : "🖨 Printer",
+  "createdDate" : 1639580052550,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "active" : false
+}, {
+  "id" : "2e96d3c5-2ef0-42ae-9d27-7eee876da80e",
+  "name" : "📷 Camera",
+  "createdDate" : 1639580065770,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "active" : true
+}, {
+  "id" : "98679b40-d80e-49f5-89f3-c78a42e76f56",
+  "name" : "🖥 Desktop",
+  "createdDate" : 1639580068774,
+  "updatedDate" : null,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "active" : true
+} ]

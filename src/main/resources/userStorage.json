@@ -1,0 +1,39 @@
+[ {
+  "id" : "697a70b1-a2e7-42ed-b222-1cd0a593cf87",
+  "name" : "Jamshidbek Karimov",
+  "createdDate" : 1640060450542,
+  "updatedDate" : 1640060450542,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "JamshidbeKarimov",
+  "phoneNumber" : "+998946236424",
+  "role" : "USER",
+  "balance" : 0.0,
+  "chatId" : "1383654416",
+  "userState" : "PRODUCTS",
+  "sellerState" : null,
+  "location" : {
+    "longitude" : 69.228628,
+    "latitude" : 41.326556
+  },
+  "active" : false
+}, {
+  "id" : "2f480d4d-4076-4398-9d1e-d0b3dd170e16",
+  "name" : "Eshmamatov Obidjon 714-19",
+  "createdDate" : 1640060560033,
+  "updatedDate" : 1640060560033,
+  "createdBy" : null,
+  "updatedBy" : null,
+  "username" : "Obidjon_Eshmamatov",
+  "phoneNumber" : "+998939515177",
+  "role" : "SELLER",
+  "balance" : 0.0,
+  "chatId" : "424197800",
+  "userState" : null,
+  "sellerState" : "START_LOCATION",
+  "location" : {
+    "longitude" : 69.228564,
+    "latitude" : 41.326684
+  },
+  "active" : false
+} ]
